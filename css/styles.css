@@ -636,7 +636,6 @@ input {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  z-index: -2;
 }
 
 .footer-container {
@@ -712,7 +711,6 @@ input {
   background-image: url('../images/nasal-drops.png');
   width: 245px;
   height: 150px;
-  z-index: -1;
 }
 
 /* Modal */
